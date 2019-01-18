@@ -1,0 +1,32 @@
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+li{
+    border-bottom: 1px solid darkcyan;
+}
+.avatar-group{
+    width: 60px;
+    height: 100%;
+    float: left;
+}
+.avatar-group .avatar{
+    width: 60px;
+    height: 60px;
+}
+.question-group{
+    width: 660px;
+    margin-left: 10px;
+}
+.qusetion-title {
+   color:  #259;
+    font-weight: 900;
+    margin-top: 8px;
+
+}
+.question-info{
+    text-align: right;
+}
+.question-author .question-time{
+    margin-right: 20px;
+}
